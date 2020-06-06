@@ -2,7 +2,10 @@
 
 Implementação realizada por: **Antonio Joaquim Fernandes**
 - Contato: **imbitubadigital@gmail.com**
--
+
+## Vídeo da Aplicação
+ [CLIQUE AQUI E ASSISTA O VÍDEO DESMONSTRATIVO](https://www.youtube.com/watch?v=jgRliPP8cWU)
+
 
 ## Especificações:
 
@@ -17,9 +20,9 @@ Como desafio pessoal integrei as rotas **Update e Delete** quais não faziam par
 
 ### Projeto Web - Front-end React
 
-[Clique aqui](https://github.com/imbitubadigital/sistema-de-tarefas) para visualizar e baixo o projeto fron-end deseenvolvido em
+[Clique aqui](https://github.com/imbitubadigital/dev-radar-frontend-react) para visualizar e baixar o projeto fron-end desenvolvido em **ReactJS**
 
 
-### Projeto Aplicatico Mobile - React Native
+### Projeto Aplicativo Mobile - React Native
 
-[Clique aqui](https://github.com/imbitubadigital/sistema-de-tarefas) para visualizar e baixo o projeto do aplicativo mobile desenvolvido em React Native
+[Clique aqui](https://github.com/imbitubadigital/dev-radar-mobile) para visualizar e baixar o projeto do aplicativo mobile desenvolvido em **React Native**

@@ -1,1 +1,7 @@
 mongodb://192.168.99.103:27017/week10
+
+https://github.com/imbitubadigital/beckend-dev-radar
+
+https://github.com/imbitubadigital/dev-radar-mobile
+
+https://github.com/imbitubadigital/dev-radar-frontend-react
